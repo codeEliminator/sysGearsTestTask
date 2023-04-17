@@ -1,0 +1,12 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "test task for Agilie",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
